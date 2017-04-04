@@ -1,0 +1,13 @@
+html{
+  background-color: #163870;
+}
+h1 {
+  text-align: center;
+  color: green;
+  font-family: "Press Start 2p", cursive;
+}
+p {
+  color: gold;
+  text-align: center;
+  font-family: "Anton", sans-serif;
+}
